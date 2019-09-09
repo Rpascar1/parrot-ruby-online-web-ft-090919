@@ -1,3 +1,10 @@
+def parrot
+  puts "#{string}"
+end
+
+
+
+
 
 describe '#parrot' do
   it 'should output "Squawk!" to the terminal when called without any arguments' do
